@@ -1,4 +1,3 @@
-# bryancuadrado-bryancuadrado
 
 <div align="center">
 
