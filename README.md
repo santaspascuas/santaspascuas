@@ -56,9 +56,8 @@ Java Backend Developer at **Rural Servicios Informáticos (RSI)** · business-cr
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santaspascuas
-/santaspascuas/output/snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/snake-light.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santaspascuas/santaspascuas/output/snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/santaspascuas/santaspascuas/output/snake-light.svg" width="100%" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,50:6e40c9,100:0d1117&height=100&section=footer" width="100%" />
