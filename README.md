@@ -28,11 +28,19 @@ Java Backend Developer at **Rural Servicios Informáticos (RSI)** · business-cr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a371f7&icon_color=6e40c9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a371f7" height="165" />
+<!-- activity:start -->
+![Commits](https://img.shields.io/badge/Commits-13.1K-6e40c9?style=flat-square&logo=git&logoColor=white)
+![2026](https://img.shields.io/badge/2026-8.6K_commits-8957e5?style=flat-square&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-101-a371f7?style=flat-square&logo=github&logoColor=white)
+<!-- activity:end -->
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&hide_border=true&background=0d1117&ring=a371f7&fire=6e40c9&currStreakLabel=a371f7" width="60%" />
-
+<!-- languages:start -->
+![TypeScript](https://img.shields.io/badge/TypeScript-1.89M_lines-6e40c9?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-252.1K_lines-6e40c9?style=flat-square&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-112.0K_lines-d2a8ff?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-104.9K_lines-8957e5?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-63.9K_lines-d2a8ff?style=flat-square&logo=swift&logoColor=black)
+<!-- languages:end -->
 </div>
 
 <h3 align="center">Stack</h3>
@@ -42,11 +50,9 @@ Java Backend Developer at **Rural Servicios Informáticos (RSI)** · business-cr
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WildFly-6e40c9?style=flat-square&logo=wildfly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Tomcat-8957e5?style=flat-square&logo=apachetomcat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clarive-a371f7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microservices-6e40c9?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_APIs-8957e5?style=flat-square" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,bun,rust,swift,react,postgres,redis,mongodb,kafka,docker,kubernetes,aws,terraform&perline=8" />
+</p>
 </p>
 
 <picture>
